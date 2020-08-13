@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AI8puzzle</string>
+    <string name="iconpuzzle">IconPuzzle</string>
+    <string name="grid3">3x3</string>
+    <string name="grid4">4x4</string>
+    <string name="grid5">5x5</string>
+
+</resources>
