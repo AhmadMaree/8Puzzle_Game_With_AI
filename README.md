@@ -28,7 +28,7 @@ We use A* Searching Algorithm for build this game .The A* searching algorithm is
 for more Information click [Here](d.umn.edu/~jrichar4/8puz.html) 
 
 # Demo 
-The Demo for App is [here] (https://drive.google.com/file/d/1prG5mOEvoEJPTHfKsvvcdVHlYYMk2wIB/view?usp=sharing)
+The Demo for App is [here](https://drive.google.com/file/d/1prG5mOEvoEJPTHfKsvvcdVHlYYMk2wIB/view?usp=sharing)
 
 # License
-This project is licensed under MIT License - see the [License.md](https://github.com/AhmadMaree/CoConstructApp/blob/master/License.md) file for details
+This project is licensed under MIT License - see the [License.md](https://github.com/AhmadMaree/8Puzzle_Game_With_AI/blob/add-license-1/LICENSE) file for details
