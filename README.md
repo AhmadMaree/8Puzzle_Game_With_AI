@@ -21,14 +21,14 @@ $ cd CoConstructApp
 # install the dependencies 
 
 # start Android emulator with running App
-
-### Algorithm
+```
+# Algorithm
 
 We use A* Searching Algorithm for build this game .The A* searching algorithm is a recursive algorithm that continuously calls itself until a winning state is found. When the game is designed, in order to randomly generate different games, start with the goal state and make many random moves on the state.
 for more Information click [Here](d.umn.edu/~jrichar4/8puz.html) 
 
-## Demo 
+# Demo 
 The Demo for App is [here] (https://drive.google.com/file/d/1prG5mOEvoEJPTHfKsvvcdVHlYYMk2wIB/view?usp=sharing)
 
-## License
+# License
 This project is licensed under MIT License - see the [License.md](https://github.com/AhmadMaree/CoConstructApp/blob/master/License.md) file for details
