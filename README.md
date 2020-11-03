@@ -16,7 +16,7 @@ left to right, with 1 in the top left-hand position.
 $ git clone https://github.com/AhmadMaree/8Puzzle_Game_With_AI
 
 # change directory to cloned app
-$ cd CoConstructApp
+$ cd 8Puzzle_Game_With_AI
 
 # install the dependencies 
 
